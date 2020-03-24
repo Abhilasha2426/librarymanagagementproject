@@ -1,0 +1,5 @@
+package com.capgemini.librarymanagementsystem;
+
+import org.springframework.security.web.context.AbstractSecurityWebApplicationInitializer;
+
+public class LibraryManagementSystemSecurityApplicationIntializer extends AbstractSecurityWebApplicationInitializer {}
